@@ -1,0 +1,10 @@
+## Interface: 80300
+## Title: Classic Gold Tracker
+## Notes: Tracks your gold income by days
+## SavedVariablesPerCharacter: SAVES
+## SavedVariables: MYOPTIONS
+
+
+
+ClassicGoldTracker.lua
+ClassicGoldTracker.xml
