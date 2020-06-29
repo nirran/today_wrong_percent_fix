@@ -356,7 +356,7 @@ function showPage(number)
     local offset = -5
 
     local END = ((15 - (CURRENT_PAGE * 15)) * -1) + 15
-    if (((15 - (CURRENT_PAGE * 15)) * -1) + 16 >= table.getn(SavesSorted)) then
+    if (((15 - (CURRENT_PAGE * 15)) * -1) + 15 >= table.getn(SavesSorted)) then
         END = table.getn(SavesSorted)
     end
 
